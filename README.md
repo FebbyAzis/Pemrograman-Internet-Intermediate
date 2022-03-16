@@ -1,2 +1,2 @@
-# Pemrograman Internet Mediate
-Repository untuk mengumpulkan tugas Pemrograman Internet Mediate
+# Pemrograman Internet Intermediate
+Repository untuk mengumpulkan tugas Pemrograman Internet Interediate
