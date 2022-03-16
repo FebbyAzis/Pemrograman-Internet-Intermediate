@@ -108,7 +108,7 @@ class Mobil extends Kendaraan {
 
 }
 
-class CetakInforHiburan {
+class CetakInfoHiburan {
 
     public function cetak(Hiburan $hiburan){
         $str = "{$hiburan->judul} {$hiburan->getlabel()} (Rp. {$hiburan->harga})";
@@ -117,7 +117,7 @@ class CetakInforHiburan {
 
 }
 
-class CetakInforKendaraan {
+class CetakInfoKendaraan {
 
     public function cetak(Kendaraan $kendaraan){
         $str = "{$kendaraan->nama} {$kendaraan->getlabel()} (Rp. {$kendaraan->harga})";
