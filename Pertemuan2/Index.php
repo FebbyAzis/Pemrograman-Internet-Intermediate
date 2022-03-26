@@ -42,6 +42,7 @@ $data_hewan = $db->tampil_data();
         top: 40%;
         left: 0;
         transform: translate(+50%, -50%);
+        background-color: blanchedalmond;
         }
 
     </style>
